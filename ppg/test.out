@@ -1,0 +1,5 @@
+2 3 4 1 0 3 6000 temp.pas 414 PASS,92 Checks
+2 3 5 1 0 3 60000 temp.pas 3446 error: operation on incompatible sets
+
+not worth attempting further testing without corrections.
+

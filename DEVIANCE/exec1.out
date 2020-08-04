@@ -1,0 +1,20 @@
+rm: a.out: No such file or directory
+DEV001.PAS:20: error: syntax error before `nil'
+DEV001.PAS:20: error: extra comma
+DEV001.PAS: In main program:
+DEV001.PAS:22: error: incompatible types in assignment
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV002.PAS:22: error: syntax error before `to'
+DEV002.PAS: In main program:
+DEV002.PAS:24: error: undeclared identifier `thing' (first use in this routine)
+DEV002.PAS:24: error:  (Each undeclared identifier is reported only once
+DEV002.PAS:24: error:  for each routine it appears in.)
+DEV002.PAS:24: error: syntax error before `label'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV003.PAS:21: error: syntax error before `.'
+DEV003.PAS: In main program:
+DEV003.PAS:23: error: undeclared label `i'
+DEV003.PAS:23: error: syntax error before `='
+tcsh: ./a.out: Command not found.

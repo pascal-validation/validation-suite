@@ -1,0 +1,1254 @@
+rm: a.out: No such file or directory
+DEV001.PAS:20: error: syntax error before `nil'
+DEV001.PAS:20: error: extra comma
+DEV001.PAS: In main program:
+DEV001.PAS:22: error: incompatible types in assignment
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV002.PAS:22: error: syntax error before `to'
+DEV002.PAS: In main program:
+DEV002.PAS:24: error: undeclared identifier `thing' (first use in this routine)
+DEV002.PAS:24: error:  (Each undeclared identifier is reported only once
+DEV002.PAS:24: error:  for each routine it appears in.)
+DEV002.PAS:24: error: syntax error before `label'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV003.PAS:21: error: syntax error before `.'
+DEV003.PAS: In main program:
+DEV003.PAS:23: error: undeclared label `i'
+DEV003.PAS:23: error: syntax error before `='
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV004.PAS: In main program:
+DEV004.PAS:23: error: invalid character
+DEV004.PAS:23: error: syntax error before `2'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV005.PAS:23: error: syntax error before `..'
+DEV005.PAS:24: error: syntax error before `:'
+DEV005.PAS: In main program:
+DEV005.PAS:26: error: undeclared identifier `j' (first use in this routine)
+DEV005.PAS:26: error:  (Each undeclared identifier is reported only once
+DEV005.PAS:26: error:  for each routine it appears in.)
+DEV005.PAS:27: error: undeclared identifier `i' (first use in this routine)
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV006.PAS: In main program:
+DEV006.PAS:24: error: `&' is an extension of traditional Macintosh Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV007.PAS: In main program:
+DEV007.PAS:24: error: `|' is an extension of traditional Macintosh Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV008.PAS:19: error: syntax error before `.'
+DEV008.PAS: In main program:
+DEV008.PAS:23: error: syntax error before `.'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV009.PAS: In main program:
+DEV009.PAS:21: warning: ISO Pascal requires a digit after the decimal point
+ THE VALUE OF I IS  1.2300000000000000e+02
+ DEVIATES...6.1.5-4 (DEV009)
+DEV010.PAS:19: error: syntax error before `234'
+DEV010.PAS:21: warning: ISO Pascal requires a digit after the decimal point
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV011.PAS:21: error: missing white space after decimal real constant
+DEV011.PAS:21: error: syntax error before `E'
+DEV011.PAS:21: error: ISO 7185 Pascal allows only simple constants
+DEV011.PAS: In main program:
+DEV011.PAS:23: error: undeclared identifier `x' (first use in this routine)
+DEV011.PAS:23: error:  (Each undeclared identifier is reported only once
+DEV011.PAS:23: error:  for each routine it appears in.)
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV012.PAS: In main program:
+DEV012.PAS:25: error: missing white space after decimal real constant
+DEV012.PAS:25: error: syntax error before `-'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV013.PAS:17: error: missing white space after decimal integer constant
+DEV013.PAS:17: error: syntax error before `E'
+DEV013.PAS:17: error: ISO 7185 Pascal allows only simple constants
+DEV013.PAS:18: error: missing white space after decimal integer constant
+DEV013.PAS:18: error: syntax error before `-'
+DEV013.PAS:19: error: missing white space after decimal integer constant
+DEV013.PAS:20: error: missing white space after decimal integer constant
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV014.PAS: In main program:
+DEV014.PAS:25: error: undeclared label `five'
+DEV014.PAS:26: error: undeclared label `six'
+DEV014.PAS:21: error: label `6' not set
+DEV014.PAS:21: warning: label `5' not used
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV015.PAS:17: error: label values greater than 9999 are an extension of GNU
+DEV015.PAS:17: error:  Pascal
+DEV015.PAS: In main program:
+DEV015.PAS:19: error: label values greater than 9999 are an extension of GNU
+DEV015.PAS:19: error:  Pascal
+DEV015.PAS:23: error: label values greater than 9999 are an extension of GNU
+DEV015.PAS:23: error:  Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV016.PAS:17: error: non-numeric labels are an extension of Borland Pascal,
+DEV016.PAS:17: error:  traditional Macintosh Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV017.PAS:18: error: ISO 7185 Pascal allows only simple constants
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV018.PAS: In main program:
+DEV018.PAS:25: error: only Pascal string type, array of char, and char type
+DEV018.PAS:25: error:  are assignment compatible with a string
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV019.PAS: In main program:
+DEV019.PAS:23: error: only Pascal string type, array of char, and char type
+DEV019.PAS:23: error:  are assignment compatible with a string
+DEV019.PAS:24: error: only Pascal string type, array of char, and char type
+DEV019.PAS:24: error:  are assignment compatible with a string
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+ DEVIATES...6.1.7-7 (DEV020)
+ DEVIATES...6.1.7-8 (DEV021)
+DEV022.PAS: In main program:
+DEV022.PAS:34: warning: assignment of string value to char variable
+DEV022.PAS:36: warning: assignment of string value to char variable
+DEV022.PAS:38: warning: assignment of string value to char variable
+ DEVIATES...6.1.7-9 (DEV022)
+ CASE 1 : AB  
+ CASE 2 : ABCD  
+ CASE 3 : ABCD
+ DEVIATES...6.1.7-10 (DEV023)
+DEV024.PAS: In main program:
+DEV024.PAS:21: error: the empty string is an extension of ISO 10206 Extended
+DEV024.PAS:21: error:  Pascal, UCSD Pascal, Borland Pascal, Pascal-SC, VAX Pascal,
+DEV024.PAS:21: error:  Sun Pascal, traditional Macintosh Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV025.PAS:17: error: ISO 7185 Pascal allows only simple constants
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV026.PAS: In main program:
+DEV026.PAS:17: error: line breaks in char and string constants are an extension of
+DEV026.PAS:17: error:  GNU Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV027.PAS:21: error: syntax error before `;'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV028.PAS: In main program:
+DEV028.PAS:19: error: double quoted strings are a GNU Pascal extension
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV029.PAS: In main program:
+DEV029.PAS:19: error: invalid character
+DEV029.PAS:20: error: syntax error before `writeln'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV030.PAS: In main program:
+DEV030.PAS:24: error: missing white space after decimal integer constant
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV031.PAS: In main program:
+DEV031.PAS:23: error: invalid character
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV032.PAS: In main program:
+DEV032.PAS:21: error: undeclared label `3'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV033.PAS: In main program:
+DEV033.PAS:25: error: duplicate label `9'
+DEV033.PAS:21: warning: label `9' not used
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV034.PAS: In main program:
+DEV034.PAS:23: error: label `9' not set
+DEV034.PAS:23: warning: label `9' not used
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV035.PAS: In procedure `grimly':
+DEV035.PAS:25: error: label `732' must be set in the block closest-containing it
+DEV035.PAS: In main program:
+DEV035.PAS:22: error: label `732' not set
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV036.PAS:23: error: mixed order of declaration parts is an extension of ISO
+DEV036.PAS:23: error:  10206 Extended Pascal, UCSD Pascal, Borland Pascal,
+DEV036.PAS:23: error:  Pascal-SC, VAX Pascal, Sun Pascal, traditional Macintosh
+DEV036.PAS:23: error:  Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV037.PAS:32: error: mixed order of declaration parts is an extension of ISO
+DEV037.PAS:32: error:  10206 Extended Pascal, UCSD Pascal, Borland Pascal,
+DEV037.PAS:32: error:  Pascal-SC, VAX Pascal, Sun Pascal, traditional Macintosh
+DEV037.PAS:32: error:  Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV038.PAS:18: error: ISO 7185 Pascal allows only simple constants
+DEV038.PAS:20: error: mixed order of declaration parts is an extension of ISO
+DEV038.PAS:20: error:  10206 Extended Pascal, UCSD Pascal, Borland Pascal,
+DEV038.PAS:20: error:  Pascal-SC, VAX Pascal, Sun Pascal, traditional Macintosh
+DEV038.PAS:20: error:  Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV039.PAS: In procedure `ouch':
+DEV039.PAS:36: error: identifier `red' redeclared in a scope where an outer value was used
+DEV039.PAS:36: error: identifier `violet' redeclared in a scope where an outer value was used
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV040.PAS: In function `f':
+DEV040.PAS:26: error: shadowing function-identifier `F' makes
+DEV040.PAS:26: error:  it impossible to assign a function result
+DEV040.PAS:37: error: result of function `f' assigned outside its block
+DEV040.PAS:39: error: result of function `f' not assigned
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV041.PAS: In function `f2':
+DEV041.PAS:27: error: result of function `f1' assigned outside its block
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV042.PAS:18: error: redeclaration of `1'
+DEV042.PAS:18: error:  previous declaration
+DEV042.PAS: In main program:
+DEV042.PAS:18: warning: label `1' not used
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+ DEVIATES...6.2.2-12 (DEV043)
+ DEVIATES...6.2.2-13 (DEV044)
+DEV045.PAS:19: error: wrong type of argument to unary `+'
+DEV045.PAS:19: error: ISO 7185 Pascal allows only simple constants
+DEV045.PAS: In main program:
+DEV045.PAS:21: error: undeclared identifier `plusdot' (first use in this routine)
+DEV045.PAS:21: error:  (Each undeclared identifier is reported only once
+DEV045.PAS:21: error:  for each routine it appears in.)
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV046.PAS:18: error: ISO 7185 Pascal allows only simple constants
+DEV046.PAS:19: error: wrong type of argument to unary `+'
+DEV046.PAS:19: error: ISO 7185 Pascal allows only simple constants
+DEV046.PAS: In main program:
+DEV046.PAS:22: error: undeclared identifier `plusstars' (first use in this routine)
+DEV046.PAS:22: error:  (Each undeclared identifier is reported only once
+DEV046.PAS:22: error:  for each routine it appears in.)
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV047.PAS:19: error: wrong type of argument to unary `+'
+DEV047.PAS:19: error: ISO 7185 Pascal allows only simple constants
+DEV047.PAS: In main program:
+DEV047.PAS:22: error: undeclared identifier `plustruth' (first use in this routine)
+DEV047.PAS:22: error:  (Each undeclared identifier is reported only once
+DEV047.PAS:22: error:  for each routine it appears in.)
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV048.PAS: In main program:
+DEV048.PAS:20: error: wrong type of argument to unary `+'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV049.PAS: In procedure `p':
+DEV049.PAS:26: error: identifier `ten' redeclared in a scope where an outer value was used
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV050.PAS:19: error: ISO 7185 Pascal allows only simple constants
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV051.PAS:22: error: ISO 7185 Pascal allows only simple constants
+DEV051.PAS:23: error: wrong type of argument to unary `-'
+DEV051.PAS:23: error: ISO 7185 Pascal allows only simple constants
+DEV051.PAS:24: error: wrong type of argument to unary `-'
+DEV051.PAS:24: error: ISO 7185 Pascal allows only simple constants
+DEV051.PAS:25: error: wrong type of argument to unary `-'
+DEV051.PAS:25: error: ISO 7185 Pascal allows only simple constants
+DEV051.PAS: In main program:
+DEV051.PAS:31: error: undeclared identifier `minusdot' (first use in this routine)
+DEV051.PAS:31: error:  (Each undeclared identifier is reported only once
+DEV051.PAS:31: error:  for each routine it appears in.)
+DEV051.PAS:32: error: wrong type of argument to unary `-'
+DEV051.PAS:33: error: undeclared identifier `minusstars' (first use in this routine)
+DEV051.PAS:34: error: undeclared identifier `minustruth' (first use in this routine)
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV052.PAS:25: error: ISO 7185 Pascal allows only simple constants
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV053.PAS:22: error: unknown identifier `x'
+DEV053.PAS:24: error: unknown identifier `y'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV054.PAS: In procedure `p':
+DEV054.PAS:27: error: identifier `x' redeclared in a scope where an outer value was used
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV055.PAS:18: error: unknown identifier `atype'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV056.PAS: In main program:
+DEV056.PAS:23: warning: assignment of string value to char variable
+DEV056.PAS:23: error: syntax error before `['
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV057.PAS: In procedure `p':
+DEV057.PAS:24: error: incompatible types in assignment
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV058.PAS:18: error: syntax error before `)'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV059.PAS:17: error: syntax error before `,'
+DEV059.PAS:19: error: unknown identifier `status'
+DEV059.PAS: In main program:
+DEV059.PAS:21: error: undeclared identifier `s' (first use in this routine)
+DEV059.PAS:21: error:  (Each undeclared identifier is reported only once
+DEV059.PAS:21: error:  for each routine it appears in.)
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV060.PAS:22: error: subrange bounds must be of ordinal type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV061.PAS:18: error: invalid subrange type
+DEV061.PAS:19: error: invalid subrange type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV062.PAS:18: error: subrange bounds must be of ordinal type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV063.PAS:17: error: syntax error before `..'
+DEV063.PAS:19: error: unknown identifier `bool'
+DEV063.PAS: In main program:
+DEV063.PAS:21: error: undeclared identifier `v' (first use in this routine)
+DEV063.PAS:21: error:  (Each undeclared identifier is reported only once
+DEV063.PAS:21: error:  for each routine it appears in.)
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV064.PAS:21: error: subrange bounds are not of the same type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV065.PAS:19: error: syntax error before `;'
+DEV065.PAS:21: error: unknown identifier `small'
+DEV065.PAS: In main program:
+DEV065.PAS:23: error: undeclared identifier `num' (first use in this routine)
+DEV065.PAS:23: error:  (Each undeclared identifier is reported only once
+DEV065.PAS:23: error:  for each routine it appears in.)
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV066.PAS:19: error: undeclared identifier `on' (first use in this routine)
+DEV066.PAS:19: error:  (Each undeclared identifier is reported only once
+DEV066.PAS:19: error:  for each routine it appears in.)
+DEV066.PAS:19: error: syntax error before `,'
+DEV066.PAS:20: error: undeclared identifier `high' (first use in this routine)
+DEV066.PAS:20: error: syntax error before `,'
+DEV066.PAS:20: error: syntax error before `,'
+DEV066.PAS:21: error: packed subrange types are an extension of Borland Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV067.PAS:22: error: variable access expected -- type name given
+DEV067.PAS:22: error: syntax error before `;'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV068.PAS:19: error: unknown identifier `thing'
+DEV068.PAS: In main program:
+DEV068.PAS:25: error: record, schema or object has no field named `b'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV069.PAS:20: error: subrange bounds must be of ordinal type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+ DEVIATES...6.4.3.2-5 (DEV070)
+DEV071.PAS:18: error: syntax error before `['
+DEV071.PAS:18: error: syntax error before `of'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV072.PAS:20: error: array index type must be ordinal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+ DEVIATES...6.4.3.3-8 (DEV073)
+DEV074.PAS: In main program:
+DEV074.PAS:33: error: incompatible types in assignment
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+ DEVIATES...6.4.3.3-18 (DEV075)
+DEV076.PAS:18: error: type denoters (no identifiers) as variant tag type are an
+DEV076.PAS:18: error:  extension of UCSD Pascal, Borland Pascal, traditional
+DEV076.PAS:18: error:  Macintosh Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV077.PAS:18: error: type denoters (no identifiers) as variant tag type are an
+DEV077.PAS:18: error:  extension of UCSD Pascal, Borland Pascal, traditional
+DEV077.PAS:18: error:  Macintosh Pascal
+DEV077.PAS:20: error: unknown identifier `character'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV078.PAS:29: error: type mismatch in variant case constant
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+ DEVIATES...6.4.3.3-22 (DEV079)
+DEV080.PAS:27: error: redeclaration of `One'
+DEV080.PAS:25: error:  previous declaration
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV081.PAS:23: error: set base type must be an ordinal type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV082.PAS:24: error: set base type must be an ordinal type
+DEV082.PAS:25: error: set base type must be an ordinal type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV083.PAS:25: error: set base type must be an ordinal type
+DEV083.PAS:26: error: set base type must be an ordinal type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV084.PAS:22: error: set base type must be an ordinal type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV085.PAS:18: error: file element type must not contain files
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV086.PAS:23: error: file element type must not contain files
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV087.PAS:20: error: pointer domain type undefined
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV088.PAS: In main program:
+DEV088.PAS:23: error: char constants with `^' are an extension of Borland Pascal
+DEV088.PAS:23: error: only Pascal string type, array of char, and char type
+DEV088.PAS:23: error:  are assignment compatible with a string
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV089.PAS: In main program:
+DEV089.PAS:34: error: type mismatch in argument 1 of `test'
+DEV089.PAS:25: error:  routine declaration
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV090.PAS: In main program:
+DEV090.PAS:35: error: type mismatch in argument 1 of `test'
+DEV090.PAS:27: error:  routine declaration
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV091.PAS: In main program:
+DEV091.PAS:40: error: type mismatch in argument 1 of `test'
+DEV091.PAS:31: error:  routine declaration
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV092.PAS: In main program:
+DEV092.PAS:36: error: type mismatch in argument 1 of `test'
+DEV092.PAS:29: error:  routine declaration
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV093.PAS: In main program:
+DEV093.PAS:24: error: invalid operands to `='
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV094.PAS: In main program:
+DEV094.PAS:23: error: comparison of different string and char types is an
+DEV094.PAS:23: error:  extension of ISO 10206 Extended Pascal, UCSD Pascal,
+DEV094.PAS:23: error:  Borland Pascal, Pascal-SC, VAX Pascal, Sun Pascal,
+DEV094.PAS:23: error:  traditional Macintosh Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV095.PAS: In main program:
+DEV095.PAS:35: error: type mismatch in argument 1 of `test'
+DEV095.PAS:28: error:  routine declaration
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV096.PAS: In main program:
+DEV096.PAS:24: error: type mismatch in argument 1 of `p'
+DEV096.PAS:18: error:  routine declaration
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV097.PAS: In main program:
+DEV097.PAS:29: error: operation on incompatible sets
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV098.PAS: In main program:
+DEV098.PAS:26: error: type mismatch in array assignment
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV099.PAS: In main program:
+DEV099.PAS:34: error: type mismatch in argument 1 of `test'
+DEV099.PAS:26: error:  routine declaration
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV100.PAS: In main program:
+DEV100.PAS:28: error: incompatible types in assignment
+DEV100.PAS:29: error: incompatible type for argument 1 of `test'
+DEV100.PAS:23: error:  routine declaration
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV101.PAS: In main program:
+DEV101.PAS:28: error: invalid assignment between files
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV102.PAS: In main program:
+DEV102.PAS:34: error: invalid assignment between files
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV103.PAS: In main program:
+DEV103.PAS:32: error: type mismatch in record assignment
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV104.PAS: In main program:
+DEV104.PAS:22: error: type mismatch in array assignment
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV105.PAS: In main program:
+DEV105.PAS:25: error: type mismatch in array index
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV106.PAS: In main program:
+DEV106.PAS:24: error: undeclared identifier `j' (first use in this routine)
+DEV106.PAS:24: error:  (Each undeclared identifier is reported only once
+DEV106.PAS:24: error:  for each routine it appears in.)
+DEV106.PAS:24: error: subscripted object is not an array or string
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV107.PAS: In main program:
+DEV107.PAS:26: error: request for field `b' in something not
+DEV107.PAS:26: error:  a record, schema or object
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV108.PAS: In main program:
+DEV108.PAS:26: error: syntax error before `;'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV109.PAS: In main program:
+DEV109.PAS:20: error: invalid type of argument of `^'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+ DEVIATES...6.5.4-4 (DEV110)
+DEV111.PAS: In procedure `q':
+DEV111.PAS:30: error: identifier `p' redeclared in a scope where an outer value was used
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+ OUTER FUNCTION
+ DEVIATES...6.6.1-4 (DEV112)
+DEV113.PAS:27: error: parameters in forward declared routines are an extension of
+DEV113.PAS:27: error:  Object Pascal, UCSD Pascal, Borland Pascal, traditional
+DEV113.PAS:27: error:  Macintosh Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV114.PAS:30: error: routine definition does not match previous declaration
+DEV114.PAS:24: error:  previous declaration
+DEV114.PAS:30: error: parameters in forward declared routines are an extension of
+DEV114.PAS:30: error:  Object Pascal, UCSD Pascal, Borland Pascal, traditional
+DEV114.PAS:30: error:  Macintosh Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV115.PAS:22: error: unresolved forward declaration `Two'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV116.PAS:20: error: result types in forward declared functions are an extension
+DEV116.PAS:20: error:  of Object Pascal, UCSD Pascal, Borland Pascal, traditional
+DEV116.PAS:20: error:  Macintosh Pascal
+DEV116.PAS:20: error: parameters in forward declared routines are an extension of
+DEV116.PAS:20: error:  Object Pascal, UCSD Pascal, Borland Pascal, traditional
+DEV116.PAS:20: error:  Macintosh Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV117.PAS:26: error: attributes in previously declared routines are not allowed
+DEV117.PAS:27: error: unresolved forward declaration `Pp'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV118.PAS:30: error: structured function result types are an extension of ISO
+DEV118.PAS:30: error:  10206 Extended Pascal, UCSD Pascal, Borland Pascal,
+DEV118.PAS:30: error:  Pascal-SC, VAX Pascal, Sun Pascal, traditional Macintosh
+DEV118.PAS:30: error:  Pascal
+DEV118.PAS:34: error: structured function result types are an extension of ISO
+DEV118.PAS:34: error:  10206 Extended Pascal, UCSD Pascal, Borland Pascal,
+DEV118.PAS:34: error:  Pascal-SC, VAX Pascal, Sun Pascal, traditional Macintosh
+DEV118.PAS:34: error:  Pascal
+DEV118.PAS:38: error: structured function result types are an extension of ISO
+DEV118.PAS:38: error:  10206 Extended Pascal, UCSD Pascal, Borland Pascal,
+DEV118.PAS:38: error:  Pascal-SC, VAX Pascal, Sun Pascal, traditional Macintosh
+DEV118.PAS:38: error:  Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV119.PAS: In main program:
+DEV119.PAS:31: error: reference expected, value given
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV120.PAS: In function `illegal':
+DEV120.PAS:28: error: result of function `illegal' not assigned
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV121.PAS:22: error: result types in forward declared functions are an extension
+DEV121.PAS:22: error:  of Object Pascal, UCSD Pascal, Borland Pascal, traditional
+DEV121.PAS:22: error:  Macintosh Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV122.PAS:20: error: result type of function `ff' undefined
+DEV122.PAS: In function `ff':
+DEV122.PAS:22: error: incompatible types in assignment
+DEV122.PAS: In main program:
+DEV122.PAS:26: error: condition must be of Boolean type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV123.PAS:22: error: routine definition does not match previous declaration
+DEV123.PAS:21: error:  previous declaration
+DEV123.PAS:22: error: result types in forward declared functions are an extension
+DEV123.PAS:22: error:  of Object Pascal, UCSD Pascal, Borland Pascal, traditional
+DEV123.PAS:22: error:  Macintosh Pascal
+DEV123.PAS: In function `fun':
+DEV123.PAS:24: error: incompatible types in assignment
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV124.PAS: In procedure `deviates':
+DEV124.PAS:30: error: redeclaration of `X'
+DEV124.PAS:29: error:  previous declaration
+DEV124.PAS: In procedure `deviate1':
+DEV124.PAS:36: error: redeclaration of `X'
+DEV124.PAS:35: error:  previous declaration
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV125.PAS: In procedure `call1':
+DEV125.PAS:29: error: redeclaration of `X'
+DEV125.PAS:22: error:  previous declaration
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV126.PAS:19: error: syntax error before `var'
+DEV126.PAS:19: error: missing semicolon
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV127.PAS:24: error: file types cannot be value parameters
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV128.PAS:17: error: file types cannot be value parameters
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV129.PAS: In main program:
+DEV129.PAS:41: error: variant record selector cannot be passed by reference
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV130.PAS: In main program:
+DEV130.PAS:30: error: packed fields may not be used as `var' parameters
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV131.PAS: In main program:
+DEV131.PAS:26: error: reference expected, value given
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV132.PAS: In main program:
+DEV132.PAS:22: error: syntax error before `page'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV133.PAS: In main program:
+DEV133.PAS:28: error: reference expected, value given
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV134.PAS: In main program:
+DEV134.PAS:30: error: reference expected, value given
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV135.PAS: In main program:
+DEV135.PAS:29: error: reference expected, value given
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV136.PAS: In main program:
+DEV136.PAS:26: error: reference parameter passing of read-only location
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV137.PAS: In main program:
+DEV137.PAS:32: error: reference expected, value given
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV138.PAS: In main program:
+DEV138.PAS:31: error: reference expected, value given
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV139.PAS: In main program:
+DEV139.PAS:31: error: reference expected, value given
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV140.PAS: In main program:
+DEV140.PAS:31: error: reference expected, value given
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+ DEVIATES...6.6.3.6-10 (DEV141)
+DEV142.PAS: In main program:
+DEV142.PAS:22: error: argument to `Write' is of wrong type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV143.PAS: In main program:
+DEV143.PAS:17: error: too few arguments to `Get'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV144.PAS: In main program:
+DEV144.PAS:23: warning: `Read' without variables to read -- ignored
+ DEVIATES...6.6.5.2-20 (DEV144)
+DEV145.PAS: In main program:
+DEV145.PAS:22: warning: `Write' without values to write -- ignored
+ DEVIATES...6.6.5.2-22 (DEV145)
+DEV146.PAS: In main program:
+DEV146.PAS:23: error: argument to `Read' is of wrong type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV147.PAS: In main program:
+DEV147.PAS:17: error: syntax error before `nil'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV148.PAS: In main program:
+DEV148.PAS:32: error: too many arguments to `New'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV149.PAS: In main program:
+DEV149.PAS:31: error: tag value has incorrect type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV150.PAS: In main program:
+DEV150.PAS:23: error: argument 1 to `New' must be a pointer
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV151.PAS: In main program:
+DEV151.PAS:24: error: argument 3 to `Pack' must be a packed array
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV152.PAS: In main program:
+DEV152.PAS:24: error: argument 2 to `Unpack' must be an unpacked array
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV153.PAS: In main program:
+DEV153.PAS:27: error: source and destination arrays in `Unpack' must be of the same type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV154.PAS: In main program:
+DEV154.PAS:22: error: argument 2 to `Pack' must be of unpacked array index type
+DEV154.PAS:23: error: argument 3 to `Unpack' must be of unpacked array index type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV155.PAS: In main program:
+DEV155.PAS:35: error: too few arguments to `Odd'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV156.PAS: In main program:
+DEV156.PAS:20: error: argument 1 to `Sqr' must be an integer, real or complex number
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV157.PAS: In main program:
+DEV157.PAS:25: error: argument 1 to `Abs' must be a real or an integer
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV158.PAS: In main program:
+DEV158.PAS:25: error: argument to `Trunc' must be of real type
+DEV158.PAS:25: error: argument to `Round' must be of real type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV159.PAS: In main program:
+DEV159.PAS:21: error: `Succ' applied to real numbers is an extension of GNU Pascal
+DEV159.PAS:21: error: `Succ' applied to real numbers requires a second argument
+DEV159.PAS:21: error: `Pred' applied to real numbers is an extension of GNU Pascal
+DEV159.PAS:21: error: `Pred' applied to real numbers requires a second argument
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV160.PAS: In main program:
+DEV160.PAS:20: error: argument 1 to `Chr' must be an integer
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV161.PAS: In main program:
+DEV161.PAS:22: error: argument 1 to `Ord' must be of ordinal type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV162.PAS: In main program:
+DEV162.PAS:21: error: argument 1 to `Odd' must be an integer
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV163.PAS: In main program:
+DEV163.PAS:27: error: argument 1 to `EOF' must be a file
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV164.PAS: In main program:
+DEV164.PAS:25: error: argument 1 to `EOLn' must be a `Text' file
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV165.PAS: In main program:
+DEV165.PAS:28: error: argument 1 to `EOLn' must be a `Text' file
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV166.PAS: In main program:
+DEV166.PAS:23: error: set range bounds are of incompatible type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV167.PAS: In main program:
+DEV167.PAS:20: error: set constructor elements are of incompatible type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV168.PAS: In main program:
+DEV168.PAS:23: error: incompatible operands to `in'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV169.PAS: In main program:
+DEV169.PAS:22: error: syntax error before `,'
+DEV169.PAS:22: error: extra comma
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV170.PAS: In main program:
+DEV170.PAS:20: error: wrong type of argument to unary `+'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV171.PAS: In main program:
+DEV171.PAS:20: error: invalid operands to `div'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV172.PAS: In main program:
+DEV172.PAS:20: error: invalid operands to `*'
+DEV172.PAS:21: error: invalid operands to `*'
+DEV172.PAS:22: error: invalid operands to `+'
+DEV172.PAS:23: error: invalid operands to `+'
+DEV172.PAS:24: error: wrong type of argument to unary `-'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV173.PAS: In main program:
+DEV173.PAS:22: error: invalid operands to `/'
+DEV173.PAS:22: error: invalid operands to `/'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV174.PAS: In main program:
+DEV174.PAS:21: error: bitwise `and' is an extension of Borland Pascal, traditional
+DEV174.PAS:21: error:  Macintosh Pascal
+DEV174.PAS:22: error: bitwise `and' is an extension of Borland Pascal, traditional
+DEV174.PAS:22: error:  Macintosh Pascal
+DEV174.PAS:23: error: bitwise `or' is an extension of Borland Pascal, traditional
+DEV174.PAS:23: error:  Macintosh Pascal
+DEV174.PAS:24: error: bitwise `or' is an extension of Borland Pascal, traditional
+DEV174.PAS:24: error:  Macintosh Pascal
+DEV174.PAS:25: error: bitwise `not' is an extension of Borland Pascal, traditional
+DEV174.PAS:25: error:  Macintosh Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV175.PAS: In main program:
+DEV175.PAS:24: error: `and then' (without underscore) is an extension of GNU
+DEV175.PAS:24: error:  Pascal
+DEV175.PAS:25: error: `or else' (without underscore) is an extension of GNU Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV176.PAS: In main program:
+DEV176.PAS:21: error: wrong type of argument to unary `+'
+DEV176.PAS:22: error: wrong type of argument to unary `-'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV177.PAS: In main program:
+DEV177.PAS:24: error: invalid operands to `+'
+DEV177.PAS:24: error: invalid operands to `+'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV178.PAS: In main program:
+DEV178.PAS:29: error: operation on incompatible sets
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV179.PAS: In main program:
+DEV179.PAS:22: error: left operand to `in' must be of ordinal type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV180.PAS: In main program:
+DEV180.PAS:24: error: invalid operands to `/'
+DEV180.PAS:24: error: invalid operands to `/'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV181.PAS: In main program:
+DEV181.PAS:25: error: invalid operands to `='
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV182.PAS: In main program:
+DEV182.PAS:23: error: syntax error before `<'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV183.PAS: In main program:
+DEV183.PAS:32: error: comparison between arrays that are not of string type
+DEV183.PAS:32: error: invalid operands to `='
+DEV183.PAS:32: error: invalid operands to `<>'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+ DEVIATES...6.7.2.5-7 (DEV184), PERMITTED
+DEV185.PAS: In main program:
+DEV185.PAS:28: error: only `=' and `<>' operators are allowed for pointers
+DEV185.PAS:28: error:  (Use `--pointer-arithmetic' to enable pointer arithmetic.)
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV186.PAS: In main program:
+DEV186.PAS:23: error: `>' or `<' applied to sets is an extension of GNU Pascal
+DEV186.PAS:24: error: `>' or `<' applied to sets is an extension of GNU Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV187.PAS: In main program:
+DEV187.PAS:18: error: left operand to `in' must be of ordinal type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV188.PAS: In main program:
+DEV188.PAS:18: error: right operand to `in' must be a set
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV189.PAS: In main program:
+DEV189.PAS:26: error: invalid operands to `='
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV190.PAS: In main program:
+DEV190.PAS:26: error: invalid `goto' target
+DEV190.PAS:30: error: `goto' to invalid target
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV191.PAS: In main program:
+DEV191.PAS:26: error: invalid `goto' target
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV192.PAS: In main program:
+DEV192.PAS:30: error: invalid target for nonlocal `goto'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV193.PAS: In main program:
+DEV193.PAS:30: error: `goto' to invalid target
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV194.PAS: In main program:
+DEV194.PAS:29: error: invalid target for nonlocal `goto'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV195.PAS: In main program:
+DEV195.PAS:47: error: `goto' to invalid target
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV196.PAS: In main program:
+DEV196.PAS:44: error: `goto' to invalid target
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV197.PAS: In main program:
+DEV197.PAS:18: error: too few arguments to `Ord'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV198.PAS: In procedure `pp':
+DEV198.PAS:24: error: assignments to procedural parameters are an extension of
+DEV198.PAS:24: error:  Borland Pascal, traditional Macintosh Pascal
+DEV198.PAS:24: error: incompatible types in assignment
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV199.PAS: In main program:
+DEV199.PAS:24: error: function call used as a statement
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV200.PAS: In main program:
+DEV200.PAS:30: error: too few arguments to function `exchange'
+DEV200.PAS:20: error:  routine declaration
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV201.PAS: In main program:
+DEV201.PAS:26: error: invalid operands to `*'
+DEV201.PAS:26: error: invalid operands to `*'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV202.PAS:20: error: empty parentheses are an extension of Borland Delphi
+DEV202.PAS: In main program:
+DEV202.PAS:28: error: empty parentheses are an extension of Borland Delphi,
+DEV202.PAS:28: error:  traditional Macintosh Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV203.PAS: In main program:
+DEV203.PAS:25: error: too many arguments to routine `thing'
+DEV203.PAS:20: error:  routine declaration
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV204.PAS: In main program:
+DEV204.PAS:25: error: missing arguments in routine call
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV205.PAS: In main program:
+DEV205.PAS:25: error: too few arguments to function `thing'
+DEV205.PAS:20: error:  routine declaration
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV206.PAS: In main program:
+DEV206.PAS:23: error: undeclared label `3'
+DEV206.PAS:23: error: syntax error before `*'
+DEV206.PAS:18: error: label `6' not set
+DEV206.PAS:18: warning: label `6' not used
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV207.PAS: In main program:
+DEV207.PAS:21: error: condition must be of Boolean type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV208.PAS: In main program:
+DEV208.PAS:26: error: `case' constant does not reduce to a constant of ordinal type
+DEV208.PAS:28: error: `case' constant does not reduce to a constant of ordinal type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV209.PAS: In main program:
+DEV209.PAS:24: error: `case' constant does not reduce to a constant of ordinal type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV210.PAS: In main program:
+DEV210.PAS:24: error: `case' selector is not of ordinal type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV211.PAS: In main program:
+DEV211.PAS:26: error: `case' selector is not of ordinal type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV212.PAS: In main program:
+DEV212.PAS:23: error: `case' ranges are an extension of ISO 10206 Extended Pascal,
+DEV212.PAS:23: error:  UCSD Pascal, Borland Pascal, Pascal-SC, VAX Pascal, Sun
+DEV212.PAS:23: error:  Pascal, traditional Macintosh Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV213.PAS: In main program:
+DEV213.PAS:29: error: `case' ranges are an extension of ISO 10206 Extended Pascal,
+DEV213.PAS:29: error:  UCSD Pascal, Borland Pascal, Pascal-SC, VAX Pascal, Sun
+DEV213.PAS:29: error:  Pascal, traditional Macintosh Pascal
+DEV213.PAS:30: error: `case' ranges are an extension of ISO 10206 Extended Pascal,
+DEV213.PAS:30: error:  UCSD Pascal, Borland Pascal, Pascal-SC, VAX Pascal, Sun
+DEV213.PAS:30: error:  Pascal, traditional Macintosh Pascal
+DEV213.PAS:30: error: duplicate case-constant in `case' statement
+DEV213.PAS:29: error:  this is the first entry for that constant
+DEV213.PAS:31: error: duplicate case-constant in `case' statement
+DEV213.PAS:29: error:  this is the first entry for that constant
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV214.PAS: In main program:
+DEV214.PAS:32: error: ISO 7185 Pascal allows only simple constants
+DEV214.PAS:32: error: `case' constant does not reduce to a constant of ordinal type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV215.PAS: In main program:
+DEV215.PAS:23: error: type mismatch in `case' element
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV216.PAS: In main program:
+DEV216.PAS:26: error: duplicate case-constant in `case' statement
+DEV216.PAS:25: error:  this is the first entry for that constant
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV217.PAS: In main program:
+DEV217.PAS:21: error: syntax error before `5'
+DEV217.PAS:21: error: missing `to' or `downto'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV218.PAS: In main program:
+DEV218.PAS:21: error: syntax error before `writeln'
+DEV218.PAS:21: error: missing `to' or `downto'
+DEV218.PAS:21: error: `for' loop bounds are of incompatible type
+DEV218.PAS:21: error: syntax error before `;'
+DEV218.PAS:21: error: missing `to' or `downto'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV219.PAS: In main program:
+DEV219.PAS:23: error: syntax error before `:='
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV220.PAS: In main program:
+DEV220.PAS:24: error: invalid lvalue in `for' loop
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV221.PAS: In main program:
+DEV221.PAS:22: error: syntax error before `end'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV222.PAS: In main program:
+DEV222.PAS:24: error: assignment of `for' loop counter
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV223.PAS: In main program:
+DEV223.PAS:29: error: reference parameter passing of `for' loop counter
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV224.PAS: In main program:
+DEV224.PAS:27: error: `for' loop counter is threatened in a subroutine
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV225.PAS: In procedure `loop':
+DEV225.PAS:25: error: `for' loop counter not declared in the closest possible
+DEV225.PAS:25: error:  scope are an extension of GNU Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV226.PAS: In main program:
+DEV226.PAS:23: error: incompatible types in assignment
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV227.PAS: In main program:
+DEV227.PAS:22: error: `for' loop counters that are not entire variables are an
+DEV227.PAS:22: error:  extension of Borland Pascal, traditional Macintosh Pascal
+DEV227.PAS:25: error: `for' loop counters that are not entire variables are an
+DEV227.PAS:25: error:  extension of Borland Pascal, traditional Macintosh Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV228.PAS: In main program:
+DEV228.PAS:25: error: `for' loop counters that are not entire variables are an
+DEV228.PAS:25: error:  extension of Borland Pascal, traditional Macintosh Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV229.PAS: In procedure `loop':
+DEV229.PAS:25: error: `for' loop counters that are not entire variables are an
+DEV229.PAS:25: error:  extension of Borland Pascal, traditional Macintosh Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV230.PAS: In procedure `loop':
+DEV230.PAS:26: error: `for' loop counter not declared in the closest possible
+DEV230.PAS:26: error:  scope are an extension of GNU Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV231.PAS: In main program:
+DEV231.PAS:29: error: reading in of `for' loop counter
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV232.PAS: In procedure `r':
+DEV232.PAS:35: error: `for' loop counter not declared in the closest possible
+DEV232.PAS:35: error:  scope are an extension of GNU Pascal
+DEV232.PAS: In main program:
+DEV232.PAS:46: error: `for' loop counter is threatened in a subroutine
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV233.PAS: In main program:
+DEV233.PAS:22: error: assignment of `for' loop counter
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV234.PAS: In procedure `p':
+DEV234.PAS:22: error: `for' loop counters that are not entire variables are an
+DEV234.PAS:22: error:  extension of Borland Pascal, traditional Macintosh Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV235.PAS: In main program:
+DEV235.PAS:23: error: syntax error before `;'
+DEV235.PAS:23: error: case element expected
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV236.PAS: In main program:
+DEV236.PAS:30: error: record, schema or object has no field named `rec'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV237.PAS: In main program:
+DEV237.PAS:25: error: `with' element must be of record, schema, or object type
+DEV237.PAS:25: warning: `;' after `do'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV238.PAS: In main program:
+DEV238.PAS:25: error: syntax error before `do'
+DEV238.PAS:25: error: undeclared identifier `count' (first use in this routine)
+DEV238.PAS:25: error:  (Each undeclared identifier is reported only once
+DEV238.PAS:25: error:  for each routine it appears in.)
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV239.PAS: In main program:
+DEV239.PAS:25: error: argument to `Read' is of wrong type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV240.PAS: In main program:
+DEV240.PAS:24: error: incompatible types in assignment
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV241.PAS: In main program:
+DEV241.PAS:21: warning: assignment of string value to char variable
+<implicit code>: In main program:
+<implicit code>:23: error: this use of packed record fields is an extension of Borland
+<implicit code>:23: error:  Pascal, traditional Macintosh Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV242.PAS: In main program:
+DEV242.PAS:25: error: incompatible types in assignment
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV243.PAS: In main program:
+DEV243.PAS:24: error: `ReadLn' is allowed only when reading from files of type `Text'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV244.PAS: In main program:
+DEV244.PAS:25: error: field width and precision must be of integer type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV245.PAS: In main program:
+DEV245.PAS:26: error: field width and precision must be of integer type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV246.PAS: In main program:
+DEV246.PAS:23: error: argument to `Write' is of wrong type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV247.PAS: In main program:
+DEV247.PAS:23: error: number of fractional digits allowed only when writing values of real type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV248.PAS: In main program:
+DEV248.PAS:27: error: number of fractional digits allowed only when writing values of real type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV249.PAS: In main program:
+DEV249.PAS:28: error: argument to `WriteLn' is of wrong type
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+ NOTASTRING = Z
+ DEVIATES...6.9.3.6-3 (DEV250)
+DEV251.PAS: In main program:
+DEV251.PAS:25: error: `WriteLn' is allowed only when writing to files of type `Text'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV252.PAS: In main program:
+DEV252.PAS:23: error: argument 1 to `Page' must be a `Text' file
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV253.PAS: In main program:
+DEV253.PAS:20: error: use of `Output' without declaring it as a program parameter
+DEV253.PAS:20: error:  or importing `StandardOutput' is an extension of UCSD
+DEV253.PAS:20: error:  Pascal, Borland Pascal, traditional Macintosh Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV254.PAS:16: error: duplicate identifier `output'
+DEV254.PAS:16: error: bad import
+DEV254.PAS:0: error:  redeclaration of `Output'
+DEV254.PAS:0: error:  previous declaration
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV255.PAS:17: error: identifier `f' in program heading is undefined
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV256.PAS:21: warning: identifier `f' in program heading is not a variable of file type
+ DEVIATES...6.10-8 (DEV256)
+DEV257.PAS: In main program:
+DEV257.PAS:22: error: use of `Input' without declaring it as a program parameter
+DEV257.PAS:22: error:  or importing `StandardInput' is an extension of UCSD
+DEV257.PAS:22: error:  Pascal, Borland Pascal, traditional Macintosh Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV258.PAS: In main program:
+DEV258.PAS:22: error: syntax error at end of input
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV259.PAS: In main program:
+DEV259.PAS:18: error: use of `Input' without declaring it as a program parameter
+DEV259.PAS:18: error:  or importing `StandardInput' is an extension of UCSD
+DEV259.PAS:18: error:  Pascal, Borland Pascal, traditional Macintosh Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV260.PAS: In main program:
+DEV260.PAS:18: error: use of `Input' without declaring it as a program parameter
+DEV260.PAS:18: error:  or importing `StandardInput' is an extension of UCSD
+DEV260.PAS:18: error:  Pascal, Borland Pascal, traditional Macintosh Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV261.PAS: In main program:
+DEV261.PAS:21: error: use of `Output' without declaring it as a program parameter
+DEV261.PAS:21: error:  or importing `StandardOutput' is an extension of UCSD
+DEV261.PAS:21: error:  Pascal, Borland Pascal, traditional Macintosh Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV262.PAS: In main program:
+DEV262.PAS:17: error: the empty string is an extension of ISO 10206 Extended
+DEV262.PAS:17: error:  Pascal, UCSD Pascal, Borland Pascal, Pascal-SC, VAX Pascal,
+DEV262.PAS:17: error:  Sun Pascal, traditional Macintosh Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV263.PAS:22: error: identifier `infile' in program heading is undefined
+<implicit code>: In main program:
+<implicit code>:32: error: this use of packed array components is an extension of
+<implicit code>:32: error:  Borland Pascal, traditional Macintosh Pascal
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV264.PAS:20: error: identifier `integer' redeclared in a scope where an outer value was used
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV265.PAS:23: error: identifier `integer' redeclared in a scope where an outer value was used
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory
+DEV266.PAS:19: error: variable access expected -- type name given
+DEV266.PAS:20: error: syntax error before `case'
+DEV266.PAS:21: error: syntax error before `)'
+tcsh: ./a.out: Command not found.
+rm: a.out: No such file or directory

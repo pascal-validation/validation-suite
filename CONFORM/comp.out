@@ -1,0 +1,202 @@
+CONF003.pas: In procedure `labls':
+CONF003.pas:88: warning: `;' after `do'
+CONF003.pas:73: warning: label `2' not used
+CONF003.pas:73: warning: label `3' not used
+CONF003.pas:73: warning: label `4' not used
+CONF003.pas:73: warning: label `5' not used
+CONF003.pas:73: warning: label `7' not used
+CONF003.pas:73: warning: label `8' not used
+CONF003.pas:73: warning: label `9' not used
+CONF003.pas: In procedure `frloops':
+CONF003.pas:106: warning: `;' after `then'
+CONF003.pas:110: warning: `;' after `do'
+CONF003.pas:111: warning: `;' after `do'
+CONF003.pas:112: warning: `;' after `do'
+CONF003.pas:113: warning: `;' after `do'
+CONF003.pas:114: warning: `;' after `do'
+CONF003.pas:115: warning: `;' after `do'
+CONF003.pas:116: warning: `;' after `do'
+CONF003.pas:117: warning: `;' after `do'
+CONF003.pas:118: warning: `;' after `do'
+CONF003.pas:119: warning: `;' after `do'
+CONF003.pas:120: warning: `;' after `do'
+CONF003.pas:121: warning: `;' after `do'
+CONF003.pas: In procedure `prept':
+CONF003.pas:141: warning: `;' after `do'
+CONF003.pas:147: warning: `;' after `then'
+CONF003.pas:153: warning: `;' after `do'
+CONF003.pas:159: warning: `;' after `do'
+CONF003.pas: In procedure `pcondstats':
+CONF003.pas:180: warning: `;' after `else'
+CONF003.pas:183: warning: `;' after `else'
+CONF003.pas:196: warning: `;' after `do'
+CONF003.pas:201: warning: `Ord' applied to integers has no effect
+CONF003.pas:231: warning: `;' after `do'
+CONF003.pas:240: warning: `;' after `else'
+CONF003.pas:243: warning: `;' after `else'
+CONF003.pas:263: warning: `;' after `do'
+CONF003.pas:267: warning: `;' after `do'
+CONF003.pas:174: warning: label `4' not used
+CONF003.pas: In main program:
+CONF003.pas:298: error: set constructor range is empty
+CONF003.pas:299: confused by earlier errors, bailing out
+CONF005.pas:35: error: `forward' is a keyword in ISO 7185 Pascal, UCSD Pascal,
+CONF005.pas:35: error:  Borland Pascal, Pascal-SC, VAX Pascal, Sun Pascal,
+CONF005.pas:35: error:  traditional Macintosh Pascal
+CONF032.pas:26: error: ISO 7185 Pascal allows only simple constants
+CONF041.pas: In function `MaxChar':
+CONF041.pas:40: error: ISO 7185 Pascal allows only simple constants
+CONF041.pas:41: error: ISO 7185 Pascal allows only simple constants
+CONF042.pas: In main program:
+CONF042.pas:23: warning: `Ord' applied to integers has no effect
+CONF042.pas:24: warning: `Ord' applied to integers has no effect
+CONF042.pas:24: warning: `Ord' applied to integers has no effect
+CONF042.pas:25: warning: `Ord' applied to integers has no effect
+CONF048.pas: In main program:
+CONF048.pas:30: warning: `Ord' applied to integers has no effect
+CONF063.pas: In main program:
+CONF063.pas:40: error: set constructor range is empty
+CONF065.pas: In main program:
+CONF065.pas:41: error: this use of packed record fields is an extension of Borland
+CONF065.pas:41: error:  Pascal, traditional Macintosh Pascal
+CONF065.pas:41: error: this use of packed record fields is an extension of Borland
+CONF065.pas:41: error:  Pascal, traditional Macintosh Pascal
+CONF065.pas:47: error: operation on incompatible sets
+CONF065.pas:47: error: assignment between incompatible sets
+CONF065.pas:52: error: operation on incompatible sets
+CONF065.pas:52: error: operation on incompatible sets
+CONF065.pas:54: error: operation on incompatible sets
+CONF065.pas:54: error: operation on incompatible sets
+CONF065.pas:56: error: this use of packed record fields is an extension of Borland
+CONF065.pas:56: error:  Pascal, traditional Macintosh Pascal
+CONF065.pas:58: error: this use of packed record fields is an extension of Borland
+CONF065.pas:58: error:  Pascal, traditional Macintosh Pascal
+<implicit code>: In main program:
+<implicit code>:49: error: this use of packed record fields is an extension of Borland
+<implicit code>:49: error:  Pascal, traditional Macintosh Pascal
+<implicit code>:49: error: this use of packed record fields is an extension of Borland
+<implicit code>:49: error:  Pascal, traditional Macintosh Pascal
+CONF070.pas: In procedure `next':
+CONF070.pas:49: warning: constructing limited integer set `0 .. 255';
+CONF070.pas:49: warning:  use `--setlimit=NUMBER' to change the size limit at compile time.
+CONF070.pas:50: warning: constructing limited integer set `0 .. 255';
+CONF070.pas:50: warning:  use `--setlimit=NUMBER' to change the size limit at compile time.
+CONF072.pas: In procedure `Booleans':
+CONF072.pas:53: error: this use of packed record fields is an extension of Borland
+CONF072.pas:53: error:  Pascal, traditional Macintosh Pascal
+CONF072.pas:65: error: this use of packed record fields is an extension of Borland
+CONF072.pas:65: error:  Pascal, traditional Macintosh Pascal
+CONF072.pas: In procedure `EnumeratedTypes':
+CONF072.pas:79: error: this use of packed record fields is an extension of Borland
+CONF072.pas:79: error:  Pascal, traditional Macintosh Pascal
+CONF072.pas:92: error: this use of packed record fields is an extension of Borland
+CONF072.pas:92: error:  Pascal, traditional Macintosh Pascal
+CONF072.pas: In procedure `Integers':
+CONF072.pas:104: error: this use of packed record fields is an extension of Borland
+CONF072.pas:104: error:  Pascal, traditional Macintosh Pascal
+CONF072.pas:118: error: this use of packed record fields is an extension of Borland
+CONF072.pas:118: error:  Pascal, traditional Macintosh Pascal
+CONF072.pas: In procedure `Reals':
+CONF072.pas:130: error: this use of packed record fields is an extension of Borland
+CONF072.pas:130: error:  Pascal, traditional Macintosh Pascal
+CONF072.pas:144: error: this use of packed record fields is an extension of Borland
+CONF072.pas:144: error:  Pascal, traditional Macintosh Pascal
+CONF072.pas: In procedure `SubrangeOfInteger':
+CONF072.pas:160: error: this use of packed record fields is an extension of Borland
+CONF072.pas:160: error:  Pascal, traditional Macintosh Pascal
+CONF072.pas:173: error: this use of packed record fields is an extension of Borland
+CONF072.pas:173: error:  Pascal, traditional Macintosh Pascal
+CONF073.pas: In procedure `next':
+CONF073.pas:49: warning: constructing limited integer set `0 .. 255';
+CONF073.pas:49: warning:  use `--setlimit=NUMBER' to change the size limit at compile time.
+CONF073.pas:49: error: operation on incompatible sets
+CONF073.pas:50: warning: constructing limited integer set `0 .. 255';
+CONF073.pas:50: warning:  use `--setlimit=NUMBER' to change the size limit at compile time.
+CONF073.pas:50: error: operation on incompatible sets
+CONF073.pas:50: error: assignment between incompatible sets
+CONF073.pas: In procedure `Sets':
+CONF073.pas:51: error: this use of packed record fields is an extension of Borland
+CONF073.pas:51: error:  Pascal, traditional Macintosh Pascal
+CONF073.pas:66: error: this use of packed record fields is an extension of Borland
+CONF073.pas:66: error:  Pascal, traditional Macintosh Pascal
+CONF073.pas: In procedure `Arrays':
+CONF073.pas:104: error: this use of packed record fields is an extension of Borland
+CONF073.pas:104: error:  Pascal, traditional Macintosh Pascal
+CONF073.pas:119: error: this use of packed record fields is an extension of Borland
+CONF073.pas:119: error:  Pascal, traditional Macintosh Pascal
+CONF073.pas: In procedure `Products':
+CONF073.pas:145: error: this use of packed record fields is an extension of Borland
+CONF073.pas:145: error:  Pascal, traditional Macintosh Pascal
+CONF073.pas:160: error: this use of packed record fields is an extension of Borland
+CONF073.pas:160: error:  Pascal, traditional Macintosh Pascal
+CONF073.pas: In procedure `Unions':
+CONF073.pas:212: error: this use of packed record fields is an extension of Borland
+CONF073.pas:212: error:  Pascal, traditional Macintosh Pascal
+CONF073.pas:227: error: this use of packed record fields is an extension of Borland
+CONF073.pas:227: error:  Pascal, traditional Macintosh Pascal
+<implicit code>: In main program:
+<implicit code>:73: error: this use of packed record fields is an extension of Borland
+<implicit code>:73: error:  Pascal, traditional Macintosh Pascal
+CONF120.pas: In function `MaxChar':
+CONF120.pas:32: error: ISO 7185 Pascal allows only simple constants
+CONF120.pas:33: error: ISO 7185 Pascal allows only simple constants
+CONF124.pas: In main program:
+CONF124.pas:41: warning: tag fields ignored in `Dispose'
+CONF126.pas: In main program:
+CONF126.pas:40: warning: tag fields ignored in `Dispose'
+CONF128.pas: In main program:
+CONF128.pas:40: warning: tag fields ignored in `Dispose'
+CONF132.pas:19: error: ISO 7185 Pascal allows only simple constants
+CONF137.pas: In main program:
+CONF137.pas:47: warning: `Ord' applied to integers has no effect
+CONF145.pas: In main program:
+CONF145.pas:23: warning: constructing limited integer set `0 .. 255';
+CONF145.pas:23: warning:  use `--setlimit=NUMBER' to change the size limit at compile time.
+CONF145.pas:23: error: set constructor range is empty
+CONF146.pas: In main program:
+CONF146.pas:36: warning: constructing limited integer set `0 .. 255';
+CONF146.pas:36: warning:  use `--setlimit=NUMBER' to change the size limit at compile time.
+CONF146.pas:40: warning: constructing limited integer set `0 .. 255';
+CONF146.pas:40: warning:  use `--setlimit=NUMBER' to change the size limit at compile time.
+CONF147.pas: In main program:
+CONF147.pas:40: error: operation on incompatible sets
+CONF147.pas:42: error: operation on incompatible sets
+CONF147.pas:43: error: operation on incompatible sets
+CONF148.pas: In function `MaxChar':
+CONF148.pas:48: error: ISO 7185 Pascal allows only simple constants
+CONF148.pas:49: error: ISO 7185 Pascal allows only simple constants
+CONF150.pas: In function `MaxChar':
+CONF150.pas:37: error: ISO 7185 Pascal allows only simple constants
+CONF150.pas:38: error: ISO 7185 Pascal allows only simple constants
+CONF157.pas: In main program:
+CONF157.pas:26: warning: Set operation has no effect.
+CONF157.pas:32: warning: Set operation has no effect.
+CONF157.pas:40: warning: Set operation always yields the empty set.
+CONF163.pas: In function `MaxChar':
+CONF163.pas:40: error: ISO 7185 Pascal allows only simple constants
+CONF163.pas:41: error: ISO 7185 Pascal allows only simple constants
+CONF164.pas: In main program:
+CONF164.pas:87: warning: expressions with side-effects in set constructors are
+CONF164.pas:87: warning:  problematic since evaluation is implementation-dependent
+CONF164.pas:96: warning: expressions with side-effects in set constructors are
+CONF164.pas:96: warning:  problematic since evaluation is implementation-dependent
+CONF167.pas: In main program:
+CONF167.pas:37: warning: `;' after `then'
+CONF167.pas:45: warning: `;' after `do'
+CONF167.pas:46: warning: `;' after `else'
+CONF176.pas: In main program:
+CONF176.pas:29: warning: `;' after `do'
+CONF181.pas: In main program:
+CONF181.pas:24: error: constant out of range
+CONF181.pas:24: error: constant out of range
+CONF181.pas:24: warning: `;' after `do'
+CONF200.pas:19: error: ISO 7185 Pascal allows only simple constants
+Output file `binfile': xxx
+Output file `textfile': xxx.txt
+CONF215.pas:16: error: `forward' is a keyword in ISO 7185 Pascal, UCSD Pascal,
+CONF215.pas:16: error:  Borland Pascal, Pascal-SC, VAX Pascal, Sun Pascal,
+CONF215.pas:16: error:  traditional Macintosh Pascal
+CONF216.pas: In main program:
+CONF216.pas:45: warning: tag fields ignored in `Dispose'
+./a.out: value out of range (error #300 at 2a87)
+[Brian-Wichmanns-Computer:P8/gnupascal/CONFORM] brianwic% 

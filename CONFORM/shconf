@@ -1,0 +1,9 @@
+rm a.out >>& exec.out
+gpc --classic-pascal CONF001.pas >>& exec.out
+./a.out >>&  exec.out
+rm a.out >>& exec.out
+gpc --classic-pascal   CONF002.pas>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc --classic-pascal   CONF003.pas>>& exec.out
+./a.out >>& exec.out

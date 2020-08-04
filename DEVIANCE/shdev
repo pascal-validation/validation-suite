@@ -1,0 +1,800 @@
+mv exec.out exec1.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV001.PAS >>& exec.out
+./a.out >>&  exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal  DEV002.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal  DEV003.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV004.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV005.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV006.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV007.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV008.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV009.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV010.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV011.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV012.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV013.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV014.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV015.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV016.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV017.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV018.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV019.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV020.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV021.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV022.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV023.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV024.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV025.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV026.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV027.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV028.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV029.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV030.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV031.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV032.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV033.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV034.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV035.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV036.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV037.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV038.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV039.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV040.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV041.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV042.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV043.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV044.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV045.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV046.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV047.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV048.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV049.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV050.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV051.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV052.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV053.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV054.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV055.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV056.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV057.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV058.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV059.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV060.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV061.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV062.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV063.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV064.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV065.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV066.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV067.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV068.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV069.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV070.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV071.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV072.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV073.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV074.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV075.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV076.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV077.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV078.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV079.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV080.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV081.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV082.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV083.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV084.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV085.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV086.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV087.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV088.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV089.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV090.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV091.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV092.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV093.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV094.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV095.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV096.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV097.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV098.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV099.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV100.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV101.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV102.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV103.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV104.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV105.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV106.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV107.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV108.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV109.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV110.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV111.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV112.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV113.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV114.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV115.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV116.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV117.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV118.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV119.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV120.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV121.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV122.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV123.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV124.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV125.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV126.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV127.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV128.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV129.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV130.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV131.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV132.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV133.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV134.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV135.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV136.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV137.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV138.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV139.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV140.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV141.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV142.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV143.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV144.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV145.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV146.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV147.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV148.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV149.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV150.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV151.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV152.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV153.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV154.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV155.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV156.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV157.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV158.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV159.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV160.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV161.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV162.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV163.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV164.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV165.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV166.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV167.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV168.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV169.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV170.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV171.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV172.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV173.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV174.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV175.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV176.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV177.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV178.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV179.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV180.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV181.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV182.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV183.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV184.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV185.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV186.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV187.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV188.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV189.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV190.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV191.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV192.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV193.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV194.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV195.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV196.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV197.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV198.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV199.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV200.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV201.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV202.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV203.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV204.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV205.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV206.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV207.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV208.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV209.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV210.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV211.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV212.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV213.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV214.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV215.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV216.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV217.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV218.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV219.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV220.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV221.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV222.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV223.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV224.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV225.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV226.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV227.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV228.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV229.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV230.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV231.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV232.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV233.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV234.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV235.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV236.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV237.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV238.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV239.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV240.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV241.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV242.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV243.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV244.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV245.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV246.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV247.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV248.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV249.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV250.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV251.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV252.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV253.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV254.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV255.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV256.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV257.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV258.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV259.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV260.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV261.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV262.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV263.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV264.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV265.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out
+gpc -x Pascal --classic-pascal DEV266.PAS>>& exec.out
+./a.out >>& exec.out
+rm a.out >>& exec.out

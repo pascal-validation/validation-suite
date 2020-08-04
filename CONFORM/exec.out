@@ -1,0 +1,46 @@
+rm: a.out: No such file or directory
+ PASS...6.1.1-1 (CONF001)
+ PASS...6.1.1-2 (CONF002)
+CONF003.pas: In procedure `labls':
+CONF003.pas:88: warning: `;' after `do'
+CONF003.pas:73: warning: label `2' not used
+CONF003.pas:73: warning: label `3' not used
+CONF003.pas:73: warning: label `4' not used
+CONF003.pas:73: warning: label `5' not used
+CONF003.pas:73: warning: label `7' not used
+CONF003.pas:73: warning: label `8' not used
+CONF003.pas:73: warning: label `9' not used
+CONF003.pas: In procedure `frloops':
+CONF003.pas:106: warning: `;' after `then'
+CONF003.pas:110: warning: `;' after `do'
+CONF003.pas:111: warning: `;' after `do'
+CONF003.pas:112: warning: `;' after `do'
+CONF003.pas:113: warning: `;' after `do'
+CONF003.pas:114: warning: `;' after `do'
+CONF003.pas:115: warning: `;' after `do'
+CONF003.pas:116: warning: `;' after `do'
+CONF003.pas:117: warning: `;' after `do'
+CONF003.pas:118: warning: `;' after `do'
+CONF003.pas:119: warning: `;' after `do'
+CONF003.pas:120: warning: `;' after `do'
+CONF003.pas:121: warning: `;' after `do'
+CONF003.pas: In procedure `prept':
+CONF003.pas:141: warning: `;' after `do'
+CONF003.pas:147: warning: `;' after `then'
+CONF003.pas:153: warning: `;' after `do'
+CONF003.pas:159: warning: `;' after `do'
+CONF003.pas: In procedure `pcondstats':
+CONF003.pas:180: warning: `;' after `else'
+CONF003.pas:183: warning: `;' after `else'
+CONF003.pas:196: warning: `;' after `do'
+CONF003.pas:201: warning: `Ord' applied to integers has no effect
+CONF003.pas:231: warning: `;' after `do'
+CONF003.pas:240: warning: `;' after `else'
+CONF003.pas:243: warning: `;' after `else'
+CONF003.pas:263: warning: `;' after `do'
+CONF003.pas:267: warning: `;' after `do'
+CONF003.pas:174: warning: label `4' not used
+CONF003.pas: In main program:
+CONF003.pas:298: error: set constructor range is empty
+CONF003.pas:299: confused by earlier errors, bailing out
+tcsh: ./a.out: Command not found.

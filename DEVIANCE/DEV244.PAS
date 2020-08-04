@@ -1,0 +1,27 @@
+{                Pascal Validation Suite  Version 5.7                }
+{                                                                    }
+{          (C) Copyright 1982, British Standards Institution         }
+{                                                                    }
+{ TEST 6.9.3.1-4, FILE=DEV244, CLASS=DEVIANCE, LEVEL=0               }
+{                                                                    }
+{:This test deviates since the expression denoting TotalWidth used   }
+{:in the write procedure, can only have integer-type.                }
+{                                                                    }
+{ Modification History :                                             }
+{   V4.0: New test.                                                  }
+{   V5.2: File header comments reformatted and file name added to    }
+{         TEST line and output lines.                                }
+{                                                                    }
+
+program DEV244(output);
+var
+   f1  :text;
+   int :integer;
+   tw  :real;
+begin
+   rewrite(f1);
+   int:=5;
+   tw:=2.0;
+   write(f1,int:tw);
+   writeln(' DEVIATES...6.9.3.1-4 (DEV244)')
+end.

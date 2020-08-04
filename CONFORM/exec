@@ -1,0 +1,442 @@
+gpc --classic-pascal CONF001.pas >>& exec.out
+./a.out >>& exec.out
+gpc --classic-pascal   CONF002.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF003.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF004.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF005.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF006.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF007.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF008.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF009.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF010.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF011.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF012.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF013.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF014.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF015.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF016.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF017.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF018.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF019.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF020.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF021.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF022.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF023.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF024.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF025.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF026.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF027.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF028.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF029.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF030.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF031.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF032.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF033.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF034.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF035.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF036.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF037.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF038.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF039.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF040.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF041.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF042.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF043.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF044.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF045.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF046.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF047.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF048.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF049.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF050.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF051.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF052.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF053.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF054.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF055.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF056.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF057.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF058.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF059.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF060.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF061.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF062.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF063.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF064.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF065.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF066.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF067.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF068.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF069.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF070.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF071.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF072.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF073.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF074.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF075.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF076.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF077.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF078.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF079.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF080.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF081.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF082.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF083.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF084.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF085.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF086.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF087.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF088.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF089.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF090.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF091.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF092.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF093.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF094.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF095.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF096.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF097.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF098.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF099.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF100.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF101.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF102.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF103.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF104.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF105.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF106.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF107.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF108.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF109.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF110.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF111.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF112.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF113.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF114.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF115.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF116.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF117.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF118.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF119.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF120.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF121.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF122.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF123.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF124.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF125.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF126.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF127.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF128.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF129.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF130.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF131.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF132.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF133.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF134.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF135.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF136.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF137.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF138.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF139.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF140.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF141.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF142.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF143.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF144.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF145.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF146.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF147.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF148.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF149.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF150.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF151.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF152.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF153.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF154.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF155.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF156.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF157.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF158.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF159.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF160.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF161.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF162.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF163.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF164.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF165.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF166.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF167.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF168.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF169.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF170.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF171.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF172.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF173.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF174.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF175.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF176.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF177.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF178.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF179.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF180.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF181.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF182.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF183.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF184.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF185.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF186.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF187.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF188.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF189.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF190.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF191.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF192.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF193.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF194.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF195.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF196.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF197.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF198.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF199.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF200.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF201.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF202.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF203.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF204.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF205.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF206.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF207.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF208.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF209.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF210.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF211.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF212.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF213.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF214.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF215.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF216.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF217.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF218.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF219.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF220.pas >>&exec.out
+./a.out >>&exec.out
+gpc --classic-pascal   CONF221.pas >>&exec.out
+./a.out >>&exec.out

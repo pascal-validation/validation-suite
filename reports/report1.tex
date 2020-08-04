@@ -1,0 +1,367 @@
+%&LaTeX
+\documentclass[a4paper]{article}
+
+\title{Attempted validation of the GNU Pascal compiler}
+    
+\author{Brian Wichmann}
+   
+
+\begin{document}
+
+\maketitle
+
+
+\section{Introduction}
+
+The Pascal Validation Suite (PVS, \cite{pvs}) was developed by A H J Sale and myself over the period 1979-1984.
+The purpose of the PVS is to check compliance the ISO-7185. This was originally for the 1980
+version of the standard but can also be used for the 1990 version of the standard \cite{pascal}.
+
+The latest version of the PVS, 5.7 states:
+
+\begin{itemize}
+  \item that British Standards Institution (BSI)'s copyright is acknowledged;
+
+  \item that no representation is made on the basis of use of the Suite which 
+    might suggest that a third-party validation had been carried out;
+
+  \item that any other representation of the results of running the Suite must 
+    describe performance on the whole suite and not simply on selected tests. 
+\end{itemize}
+
+\section{Compiler being tested}
+
+The GNU Pascal compiler \texttt{gpc-344d2-10.4} downloaded from the Internet on 21st December 2005,
+and run on an Apple G5 running Tiger (OS X 10.4).
+
+Due to the number of problems listed below, only the 221 conformance tests have been run. All the
+tests used the \texttt{--classic-pascal} option. The original tests were changed from MS-DOS
+line ending to Unix, and the extension changed from \texttt{PAS} to \texttt{pas}.
+
+
+\section{The list of compliance issues}
+
+The following test programs failed to show compliance:
+\begin{enumerate}
+    
+    \item CONF003: Produced a large number of warning (which is acceptable), then
+         \begin{small}\begin{verbatim}
+CONF003.pas:298: error: set constructor range is empty
+CONF003.pas:299: confused by earlier errors, bailing out
+          \end{verbatim}\end{small}
+
+    \item CONF005:
+        \begin{small}\begin{verbatim}
+CONF005.pas:35: error: `forward' is a keyword in ISO 7185 Pascal, UCSD Pascal,
+CONF005.pas:35: error:  Borland Pascal, Pascal-SC, VAX Pascal, Sun Pascal,
+CONF005.pas:35: error:  traditional Macintosh Pascal
+         \end{verbatim}\end{small}
+
+    \item CONF032:
+        \begin{small}\begin{verbatim}
+CONF 032.pas:26: error: ISO 7185 Pascal allows only simple constants
+        \end{verbatim}\end{small}
+
+    \item CONF041:
+        \begin{small}\begin{verbatim}
+CONF 041.pas: In function `MaxChar':
+CONF 041.pas:40: error: ISO 7185 Pascal allows only simple constants
+CONF 041.pas:41: error: ISO 7185 Pascal allows only simple constants
+        \end{verbatim}\end{small}
+
+    \item CONF063:
+        \begin{small}\begin{verbatim}
+CONF 063.pas: In main program:
+CONF 063.pas:40: error: set constructor range is empty
+        \end{verbatim}\end{small}
+
+    \item CONF065:
+        \begin{small}\begin{verbatim}
+CONF 065.pas: In main program:
+CONF 065.pas:41: error: this use of packed record fields is an extension of Borland
+CONF 065.pas:41: error:  Pascal, traditional Macintosh Pascal
+CONF 065.pas:41: error: this use of packed record fields is an extension of Borland
+CONF 065.pas:41: error:  Pascal, traditional Macintosh Pascal
+CONF 065.pas:47: error: operation on incompatible sets
+CONF 065.pas:47: error: assignment between incompatible sets
+CONF 065.pas:52: error: operation on incompatible sets
+CONF 065.pas:52: error: operation on incompatible sets
+CONF 065.pas:54: error: operation on incompatible sets
+CONF 065.pas:54: error: operation on incompatible sets
+CONF 065.pas:56: error: this use of packed record fields is an extension of Borland
+CONF 065.pas:56: error:  Pascal, traditional Macintosh Pascal
+CONF 065.pas:58: error: this use of packed record fields is an extension of Borland
+CONF 065.pas:58: error:  Pascal, traditional Macintosh Pascal
+        \end{verbatim}\end{small}
+
+    \item CONF072:
+        \begin{small}\begin{verbatim}
+CONF 072.pas: In procedure `Booleans':
+CONF 072.pas:53: error: this use of packed record fields is an extension of Borland
+CONF 072.pas:53: error:  Pascal, traditional Macintosh Pascal
+CONF 072.pas:65: error: this use of packed record fields is an extension of Borland
+CONF 072.pas:65: error:  Pascal, traditional Macintosh Pascal
+CONF 072.pas: In procedure `EnumeratedTypes':
+CONF 072.pas:79: error: this use of packed record fields is an extension of Borland
+CONF 072.pas:79: error:  Pascal, traditional Macintosh Pascal
+CONF 072.pas:92: error: this use of packed record fields is an extension of Borland
+CONF 072.pas:92: error:  Pascal, traditional Macintosh Pascal
+CONF 072.pas: In procedure `Integers':
+CONF 072.pas:104: error: this use of packed record fields is an extension of Borland
+CONF 072.pas:104: error:  Pascal, traditional Macintosh Pascal
+CONF 072.pas:118: error: this use of packed record fields is an extension of Borland
+CONF 072.pas:118: error:  Pascal, traditional Macintosh Pascal
+CONF 072.pas: In procedure `Reals':
+CONF 072.pas:130: error: this use of packed record fields is an extension of Borland
+CONF 072.pas:130: error:  Pascal, traditional Macintosh Pascal
+CONF 072.pas:144: error: this use of packed record fields is an extension of Borland
+CONF 072.pas:144: error:  Pascal, traditional Macintosh Pascal
+CONF 072.pas: In procedure `SubrangeOfInteger':
+CONF 072.pas:160: error: this use of packed record fields is an extension of Borland
+CONF 072.pas:160: error:  Pascal, traditional Macintosh Pascal
+CONF 072.pas:173: error: this use of packed record fields is an extension of Borland
+CONF 072.pas:173: error:  Pascal, traditional Macintosh Pascal
+        \end{verbatim}\end{small}
+
+    \item CONF073:
+        \begin{small}\begin{verbatim}
+	CONF073.pas: In procedure `next':
+CONF 073.pas:49: warning: constructing limited integer set `0 .. 255';
+CONF 073.pas:49: warning:  use `--setlimit=NUMBER' to change the size limit at compile time.
+CONF 073.pas:49: error: operation on incompatible sets
+CONF 073.pas:50: warning: constructing limited integer set `0 .. 255';
+CONF 073.pas:50: warning:  use `--setlimit=NUMBER' to change the size limit at compile time.
+CONF 073.pas:50: error: operation on incompatible sets
+CONF 073.pas:50: error: assignment between incompatible sets
+CONF 073.pas: In procedure `Sets':
+CONF 073.pas:51: error: this use of packed record fields is an extension of Borland
+CONF 073.pas:51: error:  Pascal, traditional Macintosh Pascal
+CONF 073.pas:66: error: this use of packed record fields is an extension of Borland
+CONF 073.pas:66: error:  Pascal, traditional Macintosh Pascal
+CONF 073.pas: In procedure `Arrays':
+CONF 073.pas:104: error: this use of packed record fields is an extension of Borland
+CONF 073.pas:104: error:  Pascal, traditional Macintosh Pascal
+CONF 073.pas:119: error: this use of packed record fields is an extension of Borland
+CONF 073.pas:119: error:  Pascal, traditional Macintosh Pascal
+CONF 073.pas: In procedure `Products':
+CONF 073.pas:145: error: this use of packed record fields is an extension of Borland
+CONF 073.pas:145: error:  Pascal, traditional Macintosh Pascal
+CONF 073.pas:160: error: this use of packed record fields is an extension of Borland
+CONF 073.pas:160: error:  Pascal, traditional Macintosh Pascal
+CONF 073.pas: In procedure `Unions':
+CONF 073.pas:212: error: this use of packed record fields is an extension of Borland
+CONF 073.pas:212: error:  Pascal, traditional Macintosh Pascal
+CONF 073.pas:227: error: this use of packed record fields is an extension of Borland
+CONF 073.pas:227: error:  Pascal, traditional Macintosh Pascal
+        \end{verbatim}\end{small}
+
+    \item CONF120:
+        \begin{small}\begin{verbatim}
+CONF 120.pas: In function `MaxChar':
+CONF 120.pas:32: error: ISO 7185 Pascal allows only simple constants
+CONF 120.pas:33: error: ISO 7185 Pascal allows only simple constants
+        \end{verbatim}\end{small}
+
+    \item CONF132:
+        \begin{small}\begin{verbatim}
+CONF 132.pas:19: error: ISO 7185 Pascal allows only simple constants
+        \end{verbatim}\end{small}
+
+    \item CONF145:
+        \begin{small}\begin{verbatim}
+CONF 145.pas: In main program:
+CONF 145.pas:23: warning: constructing limited integer set `0 .. 255';
+CONF 145.pas:23: warning:  use `--setlimit=NUMBER' to change the size limit at compile time.
+CONF 145.pas:23: error: set constructor range is empty
+        \end{verbatim}\end{small}
+
+    \item CONF147:
+        \begin{small}\begin{verbatim}
+CONF 147.pas: In main program:
+CONF 147.pas:40: error: operation on incompatible sets
+CONF 147.pas:42: error: operation on incompatible sets
+CONF 147.pas:43: error: operation on incompatible sets
+        \end{verbatim}\end{small}
+
+    \item CONF148:
+        \begin{small}\begin{verbatim}
+CONF 148.pas: In function `MaxChar':
+CONF 148.pas:48: error: ISO 7185 Pascal allows only simple constants
+CONF 148.pas:49: error: ISO 7185 Pascal allows only simple constants
+        \end{verbatim}\end{small}
+
+    \item CONF150:
+        \begin{small}\begin{verbatim}
+CONF 150.pas: In function `MaxChar':
+CONF 150.pas:37: error: ISO 7185 Pascal allows only simple constants
+CONF 150.pas:38: error: ISO 7185 Pascal allows only simple constants
+        \end{verbatim}\end{small}
+
+    \item CONF163:
+        \begin{small}\begin{verbatim}
+CONF 163.pas: In function `MaxChar':
+CONF 163.pas:40: error: ISO 7185 Pascal allows only simple constants
+CONF 163.pas:41: error: ISO 7185 Pascal allows only simple constants
+        \end{verbatim}\end{small}
+
+    \item CONF181:
+        \begin{small}\begin{verbatim}
+CONF 181.pas: In main program:
+CONF 181.pas:24: error: constant out of range
+CONF 181.pas:24: error: constant out of range
+CONF 181.pas:24: warning: `;' after `do'
+        \end{verbatim}\end{small}
+
+    \item CONF200:
+        \begin{small}\begin{verbatim}
+CONF 200.pas:19: error: ISO 7185 Pascal allows only simple constants
+        \end{verbatim}\end{small}
+
+    \item CONF215:
+        \begin{small}\begin{verbatim}
+CONF 215.pas:16: error: `forward' is a keyword in ISO 7185 Pascal, UCSD Pascal,
+CONF 215.pas:16: error:  Borland Pascal, Pascal-SC, VAX Pascal, Sun Pascal,
+CONF 215.pas:16: error:  traditional Macintosh Pascal
+        \end{verbatim}\end{small}
+
+\end{enumerate}
+
+All the above failed to compiler --- there was no instance of a correct Pascal
+program executing apparently incorrectly. Hence it appears that around 203
+tests were correctly processed, but these have not been checked individually.
+
+\section{The list of deviance issues}
+
+The following test programs failed to show compliance by compiling without an error:
+\begin{enumerate}
+    
+    \item DEV009: 
+        \begin{small}\begin{verbatim}
+DEV009.PAS: In main program:
+DEV009.PAS:21: warning: ISO Pascal requires a digit after the decimal point
+ THE VALUE OF I IS  1.2300000000000000e+02
+ DEVIATES...6.1.5-4 (DEV009)
+        \end{verbatim}\end{small}
+
+    \item DEV020: 
+        \begin{small}\begin{verbatim}
+ DEVIATES...6.1.7-7 (DEV020)
+        \end{verbatim}\end{small}
+
+    \item DEV021: 
+        \begin{small}\begin{verbatim}
+ DEVIATES...6.1.7-8 (DEV021)
+        \end{verbatim}\end{small}
+
+    \item DEV022: 
+        \begin{small}\begin{verbatim}
+ DEVIATES...6.1.7-9 (DEV022)
+        \end{verbatim}\end{small}
+
+    \item DEV023: 
+        \begin{small}\begin{verbatim}
+ CASE 1 : AB  
+ CASE 2 : ABCD  
+ CASE 3 : ABCD
+ DEVIATES...6.1.7-10 (DEV023)
+        \end{verbatim}\end{small}
+
+    \item DEV043: 
+        \begin{small}\begin{verbatim}
+ DEVIATES...6.2.2-12 (DEV043)
+        \end{verbatim}\end{small}
+
+    \item DEV044: 
+        \begin{small}\begin{verbatim}
+ DEVIATES...6.2.2-13 (DEV044)
+        \end{verbatim}\end{small}
+
+    \item DEV070: 
+        \begin{small}\begin{verbatim}
+ DEVIATES...6.4.3.2-5 (DEV070)
+        \end{verbatim}\end{small}
+
+    \item DEV073: 
+        \begin{small}\begin{verbatim}
+ DEVIATES...6.4.3.3-8 (DEV073)
+        \end{verbatim}\end{small}
+
+    \item DEV075: 
+        \begin{small}\begin{verbatim}
+ DEVIATES...6.4.3.3-18 (DEV075)
+        \end{verbatim}\end{small}
+
+    \item DEV079: 
+        \begin{small}\begin{verbatim}
+ DEVIATES...6.4.3.3-22 (DEV079)
+        \end{verbatim}\end{small}
+
+    \item DEV110: 
+        \begin{small}\begin{verbatim}
+ DEVIATES...6.5.4-4 (DEV110)
+        \end{verbatim}\end{small}
+
+    \item DEV112: 
+        \begin{small}\begin{verbatim}
+ OUTER FUNCTION
+ DEVIATES...6.6.1-4 (DEV112)
+        \end{verbatim}\end{small}
+
+    \item DEV141: 
+        \begin{small}\begin{verbatim}
+ DEVIATES...6.6.3.6-10 (DEV141)
+        \end{verbatim}\end{small}
+
+    \item DEV144: 
+        \begin{small}\begin{verbatim}
+DEV144.PAS:23: warning: `Read' without variables to read -- ignored
+ DEVIATES...6.6.5.2-20 (DEV144)
+        \end{verbatim}\end{small}
+
+    \item DEV145: 
+        \begin{small}\begin{verbatim}
+DEV145.PAS:22: warning: `Write' without values to write -- ignored
+ DEVIATES...6.6.5.2-22 (DEV145)
+        \end{verbatim}\end{small}
+
+    \item DEV184: 
+        \begin{small}\begin{verbatim}
+ DEVIATES...6.7.2.5-7 (DEV184), PERMITTED
+        \end{verbatim}\end{small}
+
+    \item DEV250: 
+        \begin{small}\begin{verbatim}
+ NOTASTRING = Z
+ DEVIATES...6.9.3.6-3 (DEV250)
+        \end{verbatim}\end{small}
+
+    \item DEV256: 
+        \begin{small}\begin{verbatim}
+DEV256.PAS:21: warning: identifier `f' in program heading is not a variable of file type
+ DEVIATES...6.10-8 (DEV256)
+        \end{verbatim}\end{small}
+
+\end{enumerate}
+
+\begin{thebibliography}{99}
+    
+\bibitem{pascal}
+ISO/IEC 7185:1990. Programming Languages --- Pascal.
+
+\bibitem{pvs}
+Wichmann B A \& Ciechanowicz Z J (Editors). \emph{Pascal Compiler Validation}. Wiley: London, 1983.
+
+
+\end{thebibliography}
+
+\appendix
+
+\section{Document details}
+
+\begin{enumerate}
+\item Started December 2005.
+\item Deviance test added, 26th Dec 2005.
+\end{enumerate}
+\end{document}
+
+
